@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 
-const API_BASE = "https://ecommerce-fullstack-p4tm.onrender.com";
+const API_BASE = "https://ecommerce-fullstack-p4tm.onrender.com/api";
+
 
 
 function App() {
